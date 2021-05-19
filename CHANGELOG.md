@@ -7,6 +7,13 @@ The format is based on
 and this project adheres to
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.0](https://www.github.com/terraform-google-modules/terraform-google-cloud-router/compare/v1.0.0...v1.1.0) (2021-05-19)
+
+
+### Features
+
+* Add ability to specify MTU for vlan_attachment submodule. ([#29](https://www.github.com/terraform-google-modules/terraform-google-cloud-router/issues/29)) ([2234ff3](https://www.github.com/terraform-google-modules/terraform-google-cloud-router/commit/2234ff33dbd4cb5b1b0434c3d0929cb1f32cbdae))
+
 ## [1.0.0](https://www.github.com/terraform-google-modules/terraform-google-cloud-router/compare/v0.4.0...v1.0.0) (2021-04-08)
 
 
